@@ -42,3 +42,30 @@
 .btn-block+.btn-block {
     margin-top: 0;
 }
+
+.logo-univ {
+    width: 100px;
+    height: 100px;
+}
+
+.sub-desc {
+    display: flex;
+}
+
+body {
+    font-family: 'Segoe UI','Lucida Grande',Verdana,Arial,Helvetica,sans-serif;
+}
+
+.logo-prox {
+    width: 135px;
+    height: 100px;
+}
+
+.logo-madamonitor {
+    width: 200px;
+    height: 100px;
+}
+
+.experiences img+div, .formation img+div {
+    margin-left: 15px;
+}
